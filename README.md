@@ -25,5 +25,5 @@
 ---
 
 ### 4. 展示翻譯功能
-跟 Telegram 呼叫 API 方式一樣，都是去呼叫 Google API，但是目前使用的方法是免費的，所以目前這個功能不需要額外費用。  
+跟 Telegram 呼叫 API 方式一樣，都是去呼叫 Google API，但是目前 Telegram 使用的 google 翻譯 api 的方法是免費的，所以目前功能不需要額外費用。  
 [![翻譯功能 Demo](https://img.youtube.com/vi/FiuaEm0Y1Fg/0.jpg)](https://www.youtube.com/shorts/FiuaEm0Y1Fg)
