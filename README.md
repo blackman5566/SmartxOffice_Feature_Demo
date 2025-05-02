@@ -9,7 +9,7 @@
 ### 1. 展示 Tag User 功能
 當使用者在輸入 @ 就會自動出現 tag 列表，這地方有趣的是當 tag 列表人員很多時，需要像 Telegram 一樣需要可以往上滑，然後在 tag 列表上方空白處還是可以操作到下方的畫面。
 需要控制 `override func point(inside point: CGPoint, with event: UIEvent?) -> Bool` 就可完成類似效果。
-影片後半段有順便展示一下顯示 log 小工具，方便 PM 們找尋 api 回應字串與錯誤訊息。  
+影片後半段有順便展示一下顯示 log 小工具，記錄 app request / responder 的內容 for 後端 ，方便 PM 們找尋 api 回應字串與錯誤訊息。  
 [![Tag User Demo](https://img.youtube.com/vi/4doc-yro3Qg/0.jpg)](https://youtube.com/shorts/4doc-yro3Qg?si=fXs53z0ksvoKnEoM)
 
 ---
