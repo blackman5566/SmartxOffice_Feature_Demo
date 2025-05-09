@@ -1,7 +1,7 @@
 # 📱 SmartxOffice 功能展示
 
 主導 SmartxOffice 的端到端開發，這是一款企業內部通訊應用，支援即時聊天、語音通話、公告發布、報表提交與流程審批功能。
-
+👉 [前往 App Store 下載](https://apps.apple.com/tw/app/smartxoffice/id1474181962)
 ---
 
 ## 🎥 比較有趣的功能展示
